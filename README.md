@@ -1,7 +1,7 @@
 ### Backend Developer
 <!-- #### 👋 Hi there! I am a backend developer. -->
 
-### ⚡ Stacks
+### ⚡ Skills
 <p float="left">
 <!-- <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white" /> -->
 <!-- <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white" /> -->
