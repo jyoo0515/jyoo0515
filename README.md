@@ -1,5 +1,19 @@
-### Hi there 👋
+### Backend Developer
+<!-- #### 👋 Hi there! I am a backend developer. -->
 
+### ⚡ Stacks
+<p float="left">
+<!-- <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white" /> -->
+<!-- <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white" /> -->
+<img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=NestJs&logoColor=white" />
+<img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=Express&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" />
+<img src="https://img.shields.io/badge/SQlite-003B57?style=flat-square&logo=SQlite&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+</p>
+  
 <!--
 **jyoo0515/jyoo0515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
