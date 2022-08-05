@@ -15,9 +15,9 @@
 </p>
 
 ### 📚 Currently Working On / Studying
-- Spring Framework
-- Docker / Kubernetes
-- AWS
+- Kotlin
+- Spring Boot
+- Kubernetes
 
 <!--
 **jyoo0515/jyoo0515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
